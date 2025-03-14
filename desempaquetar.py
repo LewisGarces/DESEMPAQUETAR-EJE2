@@ -12,3 +12,4 @@ c = numeros[1:-1]
 print(f"a: {a}")
 print(f"b: {b}")
 print(f"c: {c}")
+print("Desempaquetar:", *c) 
